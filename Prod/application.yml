@@ -1,0 +1,4 @@
+config:
+  application:
+    name: cloud-config-client
+    env: Prod
