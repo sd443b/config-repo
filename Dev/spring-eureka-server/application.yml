@@ -1,4 +1,17 @@
+spring:
+  application:
+    name: eureka-naming-server123  
+
 config:
   application:
-    name: spring-eureka-server
+    name: eureka-naming-server
     env: Dev
+server:
+  port: 8761
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+management:
+  security:
+    enabled: false
