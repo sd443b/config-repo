@@ -1,6 +1,6 @@
 spring:
   application:
-    name: eureka-naming-server123  
+    name: spring-eureka-server  
 
 config:
   application:
