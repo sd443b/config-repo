@@ -1,0 +1,4 @@
+config:
+  application:
+    name: spring-eureka-server
+    env: Dev
